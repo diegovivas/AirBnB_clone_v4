@@ -15,15 +15,15 @@ header {
 
 #api_status {
 	background-color: #CCCCCC;
-	margin-right: 20px;
 	float: right;
 	border-radius: 50%;
 	width: 40px;
 	height: 40px;
+	margin: 16px 15px;
 }
 
 .available {
-	background-color: #ff545f;
+	background-color: #ff545f !IMPORTANT;
 }
 
 
